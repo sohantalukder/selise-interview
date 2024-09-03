@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "image": "https://media.wired.com/photos/5f52a44bb555bc55dbcdf5a8/master/pass/Gear-Wireless-Bluetooth-1226031847.jpg",
+    "title": "Wireless Bluetooth Headphones",
+    "shortDescription": "High-quality wireless headphones with noise-cancellation.",
+    "price": 99.99,
+    "category": "Electronics",
+    "rating": 4.5,
+    "quantity": 50
+  },
+  {
+    "id": 2,
+    "image": "https://theimprint.sg/cdn/shop/products/TumblerPink.jpg?v=1711365886&width=1080",
+    "title": "Stainless Steel Water Bottle",
+    "shortDescription": "Eco-friendly and durable 1-liter water bottle.",
+    "price": 19.99,
+    "category": "Home & Kitchen",
+    "rating": 4.8,
+    "quantity": 150
+  },
+  {
+    "id": 3,
+    "image": "https://www.shopz.com.bd/wp-content/uploads/2022/05/UGREEN-Adjustable-Aluminum-Phone-Holder-1.jpg",
+    "title": "Adjustable Smartphone Stand",
+    "shortDescription": "Universal stand compatible with all smartphones.",
+    "price": 12.99,
+    "category": "Electronics",
+    "rating": 4.3,
+    "quantity": 200
+  },
+  {
+    "id": 4,
+    "image": "https://www.pcworld.com/wp-content/uploads/2024/03/alienware-gaming-laptop.jpg?quality=50&strip=all",
+    "title": "Gaming Laptop",
+    "shortDescription": "High-performance laptop for gaming and work.",
+    "price": 1299.99,
+    "category": "Computers",
+    "rating": 4.7,
+    "quantity": 30
+  },
+  {
+    "id": 5,
+    "image": "https://static-01.daraz.com.bd/p/bf38cb490c4df976ff69609ba5278b4a.jpg",
+    "title": "Wireless Charging Pad",
+    "shortDescription": "Fast-charging pad for wireless devices.",
+    "price": 29.99,
+    "category": "Electronics",
+    "rating": 4.6,
+    "quantity": 120
+  },
+  {
+    "id": 6,
+    "image": "https://www.bdshop.com/pub/media/catalog/product/cache/0a9842a5e3033a11158d10717601d786/x/8/x8-e_smart_watch_ultra_in_bdhsop.jpg",
+    "title": "Smart Watch",
+    "shortDescription": "Feature-packed smart watch with heart rate monitor.",
+    "price": 199.99,
+    "category": "Wearables",
+    "rating": 4.4,
+    "quantity": 70
+  },
+  {
+    "id": 7,
+    "image": "https://gadgetstudiobd.com/wp-content/uploads/2023/06/tronsmart-t7-mini-portable-bluetooth-speaker.jpg",
+    "title": "Bluetooth Speaker",
+    "shortDescription": "Portable speaker with rich sound and deep bass.",
+    "price": 49.99,
+    "category": "Audio",
+    "rating": 4.5,
+    "quantity": 95
+  },
+  {
+    "id": 8,
+    "image": "https://i5.walmartimages.com/seo/hohem-iSteady-M6-Kit-3-Smartphone-Gimbal-Stabilizer-with-AI-Vision-Sensor-with-Tripod-Magnetic-Design-Portable-and-Foldable-for-video-recording_25d9bb6f-0598-4731-b361-10698336891f.61bfbf282dcbdc6f55c32114c169578f.jpeg",
+    "title": "Smartphone Gimbal",
+    "shortDescription": "3-axis gimbal for stable smartphone videography.",
+    "price": 89.99,
+    "category": "Photography",
+    "rating": 4.6,
+    "quantity": 40
+  },
+  {
+    "id": 9,
+    "image": "https://visionemporiumbd.com/images/detailed/126/Vision_E._Kettle_1.0L_VIS-EK-013_ROYAL_.jpg",
+    "title": "Electric Kettle",
+    "shortDescription": "1.5-liter electric kettle with auto shut-off.",
+    "price": 34.99,
+    "category": "Home & Kitchen",
+    "rating": 4.7,
+    "quantity": 60
+  },
+  {
+    "id": 10,
+    "image": "https://cdn.outsideonline.com/wp-content/uploads/2023/10/fitness-tracker-1024x576.jpg?width=1200",
+    "title": "Fitness Tracker",
+    "shortDescription": "Waterproof fitness tracker with activity tracking.",
+    "price": 59.99,
+    "category": "Wearables",
+    "rating": 4.3,
+    "quantity": 110
+  },
+  {
+    "id": 11,
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/COTECi-10-in-1-USB-C-HUB-Multiport-Adapater-a-5833.jpg",
+    "title": "USB-C Hub",
+    "shortDescription": "7-in-1 USB-C hub with HDMI and card reader.",
+    "price": 24.99,
+    "category": "Electronics",
+    "rating": 4.5,
+    "quantity": 80
+  },
+  {
+    "id": 12,
+    "image": "https://www.startech.com.bd/image/cache/catalog/HDD/Transcend%20J25M3%201TB-500x500.jpg",
+    "title": "Portable Hard Drive",
+    "shortDescription": "1TB portable hard drive with fast data transfer.",
+    "price": 64.99,
+    "category": "Electronics",
+    "rating": 4.6,
+    "quantity": 90
+  },
+  {
+    "id": 14,
+    "image": "https://amateurphotographer.com/wp-content/uploads/sites/7/2020/12/6d-markii-ef24-105-3q-hiRes.jpg",
+    "title": "DSLR Camera",
+    "shortDescription": "Entry-level DSLR camera with 18-55mm lens.",
+    "price": 499.99,
+    "category": "Photography",
+    "rating": 4.7,
+    "quantity": 25
+  }
+]

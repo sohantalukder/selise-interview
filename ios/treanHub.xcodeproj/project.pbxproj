@@ -12,8 +12,12 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2F76A7CBC67F4055A34C5E41 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4297337E173E46AB967A557E /* Inter-SemiBold.ttf */; };
+		6AFC52853F9244E7AD8866B4 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 224E6EAA61DF45C6BEF1C021 /* Inter-Regular.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-treanHub-treanHubTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-treanHub-treanHubTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AEBEE1F3F65F4E4BB6041ABD /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1FFC23CE90974B82BB68D230 /* Inter-Medium.ttf */; };
+		EB76568E9EA24582947CB6DF /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 424B49070C1648EBADBA5333 /* Inter-Bold.ttf */; };
 		F0A44191598CAC8ABA6B871E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 068EB83CE2929C7FE35EB688 /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
@@ -40,7 +44,11 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = treanHub/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = treanHub/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-treanHub-treanHubTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-treanHub-treanHubTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FFC23CE90974B82BB68D230 /* Inter-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Medium.ttf"; path = "../assets/fonts/Inter-Medium.ttf"; sourceTree = "<group>"; };
+		224E6EAA61DF45C6BEF1C021 /* Inter-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Regular.ttf"; path = "../assets/fonts/Inter-Regular.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-treanHub.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-treanHub.debug.xcconfig"; path = "Target Support Files/Pods-treanHub/Pods-treanHub.debug.xcconfig"; sourceTree = "<group>"; };
+		424B49070C1648EBADBA5333 /* Inter-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Bold.ttf"; path = "../assets/fonts/Inter-Bold.ttf"; sourceTree = "<group>"; };
+		4297337E173E46AB967A557E /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-SemiBold.ttf"; path = "../assets/fonts/Inter-SemiBold.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-treanHub.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-treanHub.release.xcconfig"; path = "Target Support Files/Pods-treanHub/Pods-treanHub.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-treanHub-treanHubTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-treanHub-treanHubTests.debug.xcconfig"; path = "Target Support Files/Pods-treanHub-treanHubTests/Pods-treanHub-treanHubTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-treanHub.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-treanHub.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -127,6 +135,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				D7CC738CE6E843CF9A4DBFFC /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -151,6 +160,18 @@
 				89C6BE57DB24E9ADA2F236DE /* Pods-treanHub-treanHubTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		D7CC738CE6E843CF9A4DBFFC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				424B49070C1648EBADBA5333 /* Inter-Bold.ttf */,
+				1FFC23CE90974B82BB68D230 /* Inter-Medium.ttf */,
+				224E6EAA61DF45C6BEF1C021 /* Inter-Regular.ttf */,
+				4297337E173E46AB967A557E /* Inter-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,6 +270,10 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				F0A44191598CAC8ABA6B871E /* PrivacyInfo.xcprivacy in Resources */,
+				EB76568E9EA24582947CB6DF /* Inter-Bold.ttf in Resources */,
+				AEBEE1F3F65F4E4BB6041ABD /* Inter-Medium.ttf in Resources */,
+				6AFC52853F9244E7AD8866B4 /* Inter-Regular.ttf in Resources */,
+				2F76A7CBC67F4055A34C5E41 /* Inter-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
